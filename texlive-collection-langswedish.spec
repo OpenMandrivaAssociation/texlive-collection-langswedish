@@ -33,3 +33,12 @@ Support for typesetting Swedish.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780455
+- Update to latest release.
+- Import texlive-collection-langswedish
+- Import texlive-collection-langswedish
+
