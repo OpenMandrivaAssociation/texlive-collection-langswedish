@@ -7,7 +7,7 @@
 Name:		texlive-collection-langswedish
 Epoch:		1
 Version:	20120224
-Release:	7
+Release:	8
 Summary:	Swedish
 Group:		Publishing
 URL:		http://tug.org/texlive
